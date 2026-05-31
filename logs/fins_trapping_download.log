@@ -3573,3 +3573,14 @@
 [INFO] 2026-05-30 05:05:21 UTC (2026-05-29 22:05:21 PT) -   Date range: 03/13/2000 to 05/26/2026
 [INFO] 2026-05-30 05:05:21 UTC (2026-05-29 22:05:21 PT) -   Total records: 32291
 [INFO] 2026-05-30 05:05:21 UTC (2026-05-29 22:05:21 PT) - Download completed successfully
+[INFO] 2026-05-31 05:49:35 UTC (2026-05-30 22:49:35 PT) - Starting nightly FINS trapping data download
+[INFO] 2026-05-31 05:49:35 UTC (2026-05-30 22:49:35 PT) - API key found
+[INFO] 2026-05-31 05:49:35 UTC (2026-05-30 22:49:35 PT) - Current PT time: 2026-05-30 22:49:35
+[INFO] 2026-05-31 05:49:35 UTC (2026-05-30 22:49:35 PT) - Requesting ALL historical trapping data through 05/31/2026 for all of our FINS facilities
+[INFO] 2026-05-31 05:50:20 UTC (2026-05-30 22:50:20 PT) - Downloaded 32291 rows of data
+[INFO] 2026-05-31 05:50:20 UTC (2026-05-30 22:50:20 PT) - Columns: Finalize, Verify, Follow-Up, Trapped Date, Is Import, Facility, Trap, Trap Is Offsite, Trapping Session Name, Target Species, Target Run, Trapping Session Comments, Fish ID, Count, Species, Run, Sex, Origin, Origin Expression, Origin Description, Origin Start Date, Origin End Date, Origin Creator, Origin Creation Date, Living Status, Length, Age Designation, Age Calculated, Age Criteria Start Length, Age Criteria End Length, Age Criteria Start Date, Age Criteria End Date, Moved To Facility, Moved To, Moved To Location Type, Moved To Is Offsite, Offsite Owner Facility, Offsite Location Latitude, Offsite Location Longitude, Offsite Location Description, Disposition, Release Site, Release Site Latitude, Release Site Longitude, Purpose, Existing Marks, Existing Marks Quantity, Applied Marks, Applied Marks Quantity, Existing Tags, Applied Tags, Existing CWT, Existing CWT Value, Applied CWT, Applied CWT Value, Existing PIT, Applied PIT, Samples, Conditions, Recap, Injected, Weight, Notes, Group Notes, Import Custom
+[INFO] 2026-05-31 05:50:20 UTC (2026-05-30 22:50:20 PT) - Successfully saved file: data/TrappingData.csv - Size: 18544171 bytes
+[INFO] 2026-05-31 05:50:20 UTC (2026-05-30 22:50:20 PT) - Data summary:
+[INFO] 2026-05-31 05:50:20 UTC (2026-05-30 22:50:20 PT) -   Date range: 03/13/2000 to 05/26/2026
+[INFO] 2026-05-31 05:50:20 UTC (2026-05-30 22:50:20 PT) -   Total records: 32291
+[INFO] 2026-05-31 05:50:20 UTC (2026-05-30 22:50:20 PT) - Download completed successfully
